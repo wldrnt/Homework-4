@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: API Homework-4
+site_description: An example of API documentation
+theme: readthedocs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contacts: contacts.md
